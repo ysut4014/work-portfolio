@@ -9,3 +9,11 @@ Microsoft Power Platformを使い、現場部門と要件を整理しながら�
 **進捗**　開発完了・提出済み。運用開始時期を検討中です。
 
 [社用車管理アプリの事例を読む](projects/vehicle-management.md)
+
+## 備品管理アプリ
+
+Power Apps・SharePoint・Power Automateを組み合わせ、備品の予約・貸出・返却を管理する構成です。予約の重複チェック、Outlook予定表連携、返却リマインドを取り入れています。
+
+**進捗**　運用中です。
+
+[備品管理アプリの事例を読む](projects/equipment-management.md)
