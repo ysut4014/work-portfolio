@@ -40,11 +40,11 @@ AI Builderのプロンプトを設計し、形式の異なる請求書で項目�
 
 ### 請求書PDFの登録
 
-![選択したPDFと、SharePointへの格納から下書き作成までの流れ](../assets/images/invoice-processing/01-invoice-pdf-upload.png)
+![選択した請求書PDFと登録ボタン](../assets/images/invoice-processing/01-invoice-pdf-upload.png)
 
 ### 請求下書きの確認
 
-![請求項目、伝票種別、明細の振り分け例と登録ボタン](../assets/images/invoice-processing/02-invoice-draft-review.png)
+![請求ID、請求元、請求日、支払期日、金額、伝票種別と登録ボタン](../assets/images/invoice-processing/02-invoice-draft-review.png)
 
 ### ルーティン請求マスタ
 
@@ -52,7 +52,7 @@ AI Builderのプロンプトを設計し、形式の異なる請求書で項目�
 
 ### 期限カレンダー
 
-![七曜表の伝票作成・購買提出の期限とルーティン請求、Outlook予定表への登録に使う期限一覧](../assets/images/invoice-processing/04-deadline-calendar.png)
+![七曜表に表示された伝票作成・購買提出の期限とルーティン請求](../assets/images/invoice-processing/04-deadline-calendar.png)
 
 ## 進捗と想定効果
 
