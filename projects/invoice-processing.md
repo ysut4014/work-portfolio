@@ -34,6 +34,26 @@ AI Builderのプロンプトを設計し、形式の異なる請求書で項目�
 2. 設定日にPower Automateが起動し、マスタの情報から請求データを下書きリストに登録します。
 3. 作業者が下書きの内容を確認し、請求書PDFから登録した分と同じ請求管理簿に登録します。
 
+## 画面ラフ
+
+調整中のUIの構成案です。表示データは架空です。
+
+### 請求書PDFの登録
+
+![選択したPDFと、SharePointへの格納から下書き作成までの流れ](../assets/images/invoice-processing/01-invoice-pdf-upload.png)
+
+### 請求下書きの確認
+
+![請求項目、伝票種別、明細の振り分け例と登録ボタン](../assets/images/invoice-processing/02-invoice-draft-review.png)
+
+### ルーティン請求マスタ
+
+![登録済みのルーティン請求の一覧と、下書き作成日の設定](../assets/images/invoice-processing/03-routine-invoice-master.png)
+
+### 期限カレンダー
+
+![七曜表の伝票作成・購買提出の期限とルーティン請求、Outlook予定表への登録に使う期限一覧](../assets/images/invoice-processing/04-deadline-calendar.png)
+
 ## 進捗と想定効果
 
 異なる形式の請求書を使った項目抽出と伝票種別の判定、および特定様式の請求書の明細振り分けは、検証完了です。現在は、Power Appsの確認画面と七曜表形式のカレンダーを含むUIを調整中です。
